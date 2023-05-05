@@ -1,0 +1,11 @@
+{
+    "trainingSet" : "./iris headings.csv",
+    "hiddenLayerCount" : 1,
+    "hiddenLayerNodeCount" : 15,
+    "trainEpochs" : 1000,
+    "batchSize" : 64,
+    "learningRate" : 0.1,
+    "trainingDataSplit" : 0.7,
+    "trainingSetHasHeadings" : true,
+    "inputHeadings" : []
+}
